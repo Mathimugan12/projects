@@ -3,6 +3,7 @@ import {BrowserRouter as Router,Route, Routes } from "react-router-dom";
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Footer from './components/Footer';
+
 import Menu from './components/menu';
 import About from './components/about';
 import Contact from './components/contact';
